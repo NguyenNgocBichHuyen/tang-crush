@@ -1,8 +1,7 @@
 # Tặng Crush
 ## _Một điều nho nhỏ tỏ tình với crush_
 
-Mở file config.js sửa nội dung theo mẫu
-```
+Mở file config.js 
 const CONFIG = {
     introTitle: 'Bbi à!',
     introDesc: `Trái đất vốn lạ thường
